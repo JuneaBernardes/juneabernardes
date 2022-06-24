@@ -2,7 +2,7 @@ Oii! Eu sou a Junea Bernardes, seja bem vindo(a) ao meu Github 👋
 
 
     ✨ - Estudante de Análise e desenvolvimento de sistemas
-    🇧🇷 - Belo Horizonte-MG
+        Belo Horizonte-MG-BR
 
 
   <div>
