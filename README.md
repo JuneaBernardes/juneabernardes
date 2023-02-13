@@ -2,7 +2,7 @@ Oii! Eu sou a Junea Bernardes, seja bem vindo(a) ao meu Github 👋
 
 
     ✨ - Estudante de Análise e desenvolvimento de sistemas
-        - Dev FrontEnd Jr.
+        Dev FrontEnd Jr.
         Belo Horizonte-MG-BR
 
 
